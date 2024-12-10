@@ -1,8 +1,8 @@
-package org.gimpact.dto.v2.exchange;
+package org.gimpact.dto.exchange;
 
 import io.swagger.v3.oas.annotations.media.Schema;
 import jakarta.validation.constraints.NotNull;
-import org.gimpact.dto.v2.common.TradeOrderStatus;
+import org.gimpact.dto.common.TradeOrderStatus;
 
 import java.util.UUID;
 

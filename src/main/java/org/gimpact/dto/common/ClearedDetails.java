@@ -1,4 +1,4 @@
-package org.gimpact.dto.v2.common;
+package org.gimpact.dto.common;
 
 import java.math.BigDecimal;
 

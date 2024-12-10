@@ -1,8 +1,8 @@
-package org.gimpact.dto.v2.trade;
+package org.gimpact.dto.trade;
 
 import io.swagger.v3.oas.annotations.media.Schema;
 import jakarta.validation.constraints.NotNull;
-import org.gimpact.dto.v2.common.PartyDetail;
+import org.gimpact.dto.common.PartyDetail;
 
 import java.math.BigDecimal;
 import java.util.UUID;

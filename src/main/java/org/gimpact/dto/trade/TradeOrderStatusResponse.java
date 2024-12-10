@@ -1,4 +1,4 @@
-package org.gimpact.dto.v2.trade;
+package org.gimpact.dto.trade;
 
 public record TradeOrderStatusResponse() {
 }

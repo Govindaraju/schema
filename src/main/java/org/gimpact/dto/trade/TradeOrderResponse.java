@@ -1,7 +1,7 @@
-package org.gimpact.dto.v2.trade;
+package org.gimpact.dto.trade;
 
 import io.swagger.v3.oas.annotations.media.Schema;
-import org.gimpact.dto.v2.common.TradeOrderStatus;
+import org.gimpact.dto.common.TradeOrderStatus;
 
 import java.util.UUID;
 
